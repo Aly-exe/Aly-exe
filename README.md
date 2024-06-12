@@ -1,3 +1,5 @@
+<img align="center" alt="Banner" src="https://techspawn.com/wp-content/uploads/2022/08/flutter.jpeg" style="width:100%; height:auto;">
+
 <h1 align="center">Hi 👋, I'm Ali Raslan</h1>
 <h3 align="center">A dedicated Mobile App Developer with expertise in Flutter ,Skilled in building cross-platform applications, I strive to create intuitive and engaging mobile solutions</h3>
 <img align="right" alt="Coding" width="400" src="https://iconscout.com/lottie-animation/developer-working-on-computer-4337851">
@@ -11,7 +13,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/3lolo2002" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3lolo2002" height="30" width="40" /></a>
+<a href="https://twitter.com/3loloo_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="3lolo2002" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ali-sayed-8a8b81220" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ali-sayed-8a8b81220" height="30" width="40" /></a>
 <a href="https://instagram.com/3liisayed" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="3liisayed" height="30" width="40" /></a>
 </p>
