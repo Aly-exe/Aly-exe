@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm Ali Raslan</h1>
 <h3 align="center">A dedicated Mobile App Developer with expertise in Flutter ,Skilled in building cross-platform applications, I strive to create intuitive and engaging mobile solutions</h3>
-<img align="right" alt="Coding" width="400" src="[https://iconscout.com/lottie-animation/developer-working-on-computer-4337851](https://devtechnosys.com/insights/wp-content/uploads/2023/07/Mobile-App-Development-Tools-GIF.gif)">
+<img align="right" alt="Coding" width="400" src="https://devtechnosys.com/insights/wp-content/uploads/2023/07/Mobile-App-Development-Tools-GIF.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aly-exe&label=Profile%20views&color=0e75b6&style=flat" alt="aly-exe" /> </p>
 
 <p align="left"> <a href="https://twitter.com/3lolo2002" target="blank"><img src="https://img.shields.io/twitter/follow/3lolo2002?logo=twitter&style=for-the-badge" alt="3lolo2002" /></a> </p>
